@@ -1,2 +1,2 @@
 # SimpleLoginUI
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+![](https://github.com/rakibkhanofficial/SimpleLoginUI/blob/master/ui.gif)
